@@ -1,9 +1,9 @@
 //
 //  Question.swift
-//  Quizzler-iOS13
+//  Quizzler
 //
 //  Created by Seyi Ipaye on 19/04/2020.
-//  Copyright © 2020 The App Brewery. All rights reserved.
+//  Copyright © 2020 BreezyTech Developers. All rights reserved.
 //
 
 import Foundation
